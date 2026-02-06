@@ -1,1 +1,1 @@
-# Slides for INtroduction to Generative AI (GAI602)
+# Slides for Introduction to Generative AI (GAI602)
